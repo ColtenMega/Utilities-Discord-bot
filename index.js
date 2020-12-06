@@ -54,4 +54,4 @@ client.once('ready', () => {
 
     })
 });
-client.login('Nzc3NzM3NTA3NTMzNzUwMjgz.X7Hyfw.7AVHfvn4LZTJJMefxqj-pqWqNtc');
+client.login('My bot token');
